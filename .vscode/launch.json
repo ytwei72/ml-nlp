@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        
+
+        {
+            "name": "Python Debugger: Python File",
+            "type": "debugpy",
+            "request": "launch",
+            //"cwd": "${workspaceFolder}\\ch01",
+            "cwd": "${fileDirname}",
+            "program": "${file}"
+        }
+    ]
+}

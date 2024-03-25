@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="57fdf737-5ddd-4f18-abbe-1a20416e3abb" name="T4-mlnlp">
+        <fileTransfer rootFolder="/home/cmdc2023/ai-proj/ml-nlp" accessType="SFTP" host="36.133.246.220" port="20322" sshConfigId="ff6a45b0-a7b1-41cc-aef8-74699a4328cf" sshConfig="cmdc2023@36.133.246.220:20322 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
